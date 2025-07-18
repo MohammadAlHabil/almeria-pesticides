@@ -1,0 +1,508 @@
+{
+  "Metadata": {
+    "title": "Almeria Pesticides | Advanced Agricultural & Public Health Solutions",
+    "description": "Almeria Pesticides provides high-quality agricultural inputs including pesticides, fertilizers, seeds, irrigation systems, and public health solutions across the UAE and beyond.",
+    "keywords": "agricultural pesticides, public health pest control, fertilizers, hybrid seeds, irrigation systems, UAE agriculture, pest control UAE, Almeria Pesticides, modern farming"
+  },
+  "AboutMetadata": {
+    "title": "About Us - Almeria Pesticides",
+    "description": "Learn more about Almeria Pesticides, our vision, mission, and long-standing commitment to sustainable agricultural excellence in the UAE.",
+    "keywords": "About us, Almeria company, company background, agricultural mission, agricultural expertise, sustainable farming"
+  },
+  "ContactMetadata": {
+    "title": "Contact Us - Almeria Pesticides",
+    "description": "Reach out to Almeria Pesticides for the best in pest control, fertilizers, and seeds. We're always happy to hear from you.",
+    "keywords": "Contact us, reach out, inquiry, pesticides UAE, support team, Almeria Pesticides"
+  },
+  "PrivacyPolicyMetadata": {
+    "title": "Privacy Policy - Almeria Pesticides",
+    "description": "Learn how Almeria Pesticides protects your privacy and handles your personal information. Our commitment to data security and transparency.",
+    "keywords": "privacy policy, data protection, personal information, Almeria Pesticides, privacy rights"
+  },
+  "TermsOfServiceMetadata": {
+    "title": "Terms of Service - Almeria Pesticides",
+    "description": "Terms and conditions for using Almeria Pesticides services, products, and agricultural solutions. Important usage guidelines and policies.",
+    "keywords": "terms of service, terms and conditions, usage policy, Almeria Pesticides, agricultural services"
+  },
+  "CookiePolicyMetadata": {
+    "title": "Cookie Policy - Almeria Pesticides",
+    "description": "Information about how Almeria Pesticides uses cookies and tracking technologies on our website. Manage your cookie preferences.",
+    "keywords": "cookie policy, cookies, tracking, website analytics, Almeria Pesticides"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, ar {🇦🇪 Arabic} en {🇺🇸 English} other {unknown}}"
+  },
+  "NotFoundPage": {
+    "title": "Page Not Found",
+    "message": "Sorry, the page you are looking for does not exist.",
+    "backToHome": "Back to Home"
+  },
+  "HomePage": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Stronger Farms Start With Our Products",
+      "subtitle": "At Almeria, we give the land life — and give you real results.",
+      "cta": "Start Your Experience Now",
+      "badge": "Leading Modern Agriculture",
+      "features": {
+        "organic": {
+          "title": "Organic Products",
+          "subtitle": "100% Natural"
+        },
+        "tech": {
+          "title": "Advanced Tech",
+          "subtitle": "Smart Solutions"
+        },
+        "delivery": {
+          "title": "Fast Delivery",
+          "subtitle": "Within 24hrs"
+        },
+        "quality": {
+          "title": "Quality Assured",
+          "subtitle": "Global Standards"
+        }
+      },
+      "social": {
+        "reviews": "Reviews",
+        "support": "Support",
+        "experience": "Years Exp"
+      },
+      "scroll": "Explore Our Products"
+    },
+    "about": {
+      "title": "About Almeria",
+      "description": "Since our founding, we've been empowering agriculture and innovating pest control solutions with scientifically proven methods. At Almeria, quality is our top priority. We walk alongside farmers—every step of the way—to ensure safe and productive yields.",
+      "badge": "Excellence Since 2010",
+      "stats": {
+        "experience": {
+          "number": "15+",
+          "label": "Years Experience"
+        },
+        "clients": {
+          "number": "1000+",
+          "label": "Happy Clients"
+        }
+      },
+      "mission": {
+        "title": "Our Mission",
+        "description": "Empowering farmers with innovative solutions"
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "Leading sustainable agriculture across the region"
+      }
+    },
+    "products": {
+      "title": "Our Premium Solutions",
+      "subtitle": "Discover our comprehensive range of agricultural products designed to maximize your farm's potential and ensure sustainable growth.",
+      "badge": "Premium Products",
+      "pesticides": {
+        "title": "Agricultural Pesticides",
+        "description": "Powerful solutions against insects, fungi, and mites — designed to maximize plant protection without harming the soil or environment.",
+        "features": {
+          "feature1": "Environmentally safe formulations",
+          "feature2": "Maximum crop protection"
+        }
+      },
+      "health": {
+        "title": "Public Health Pesticides",
+        "description": "Safe and effective products for household pest control, officially licensed and approved for residential and commercial use.",
+        "features": {
+          "feature1": "Officially licensed products",
+          "feature2": "Safe for residential use"
+        }
+      },
+      "fertilizers": {
+        "title": "Premium Fertilizers",
+        "description": "A complete line of organic and chemical fertilizers to enrich the soil and strengthen plants at every growth stage.",
+        "features": {
+          "feature1": "Organic and chemical options",
+          "feature2": "All growth stages covered"
+        }
+      },
+      "seeds": {
+        "title": "Hybrid Seeds",
+        "description": "Premium hybrid and regular seeds imported from top suppliers worldwide — built for high yields and natural resistance.",
+        "features": {
+          "feature1": "Imported from top suppliers",
+          "feature2": "High yield varieties"
+        }
+      },
+      "irrigation": {
+        "title": "Irrigation Systems",
+        "description": "Modern irrigation systems, high-quality pipes, and tools that simplify farming, reduce waste, and improve water efficiency.",
+        "features": {
+          "feature1": "Water efficient systems",
+          "feature2": "Modern technology"
+        }
+      }
+    },
+    "whyUs": {
+      "title": "Why Farmers Choose Almeria",
+      "subtitle": "Choose Almeria — because you deserve the best. We deliver real results, genuine support, and a customer experience you can trust from day one and beyond.",
+      "badge": "Trusted Excellence",
+      "quality": {
+        "title": "Premium Quality",
+        "description": "Guaranteed quality with official certifications and rigorous testing procedures.",
+        "features": {
+          "feature1": "Official certifications",
+          "feature2": "Rigorous quality testing"
+        }
+      },
+      "team": {
+        "title": "Expert Team",
+        "description": "A specialized agricultural engineering team to support every season and challenge.",
+        "features": {
+          "feature1": "Agricultural engineers",
+          "feature2": "24/7 expert support"
+        }
+      },
+      "delivery": {
+        "title": "Fast Delivery",
+        "description": "Fast delivery & responsive customer care that keeps your farm operations running smoothly.",
+        "features": {
+          "feature1": "Same-day delivery available",
+          "feature2": "Responsive customer care"
+        }
+      },
+      "stats": {
+        "title": "Our Track Record",
+        "satisfaction": "Customer Satisfaction",
+        "projects": "Completed Projects",
+        "response": "Response Time"
+      },
+      "testimonial": {
+        "quote": "Almeria has transformed our farm's productivity. Their expert guidance and quality products have increased our yields by 40%.",
+        "author": "Ahmed Al-Rashid",
+        "role": "Farm Owner, Al Ain"
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Farm?",
+      "subtitle": "Join thousands of successful farmers who trust Almeria for their agricultural needs",
+      "button": "Start Your Journey",
+      "socialProof": "4.9/5 from 1000+ reviews"
+    },
+    "footer": {
+      "address": "United Arab Emirates – Al Ain – Industrial Area – Office 3",
+      "phone": "+971503000673",
+      "email": "info@almeria-pesticides.com",
+      "companyName": "Almeria",
+      "companyTagline": "Pesticides & Agriculture",
+      "companySince": "Growing Together Since 2020",
+      "quickLinks": "Quick Links",
+      "contactInfo": "Contact Info",
+      "getStarted": "Get Started",
+      "ctaText": "Ready to boost your farm's productivity? Contact our experts today!",
+      "ctaButton": "Get Free Consultation",
+      "products": "Our Products",
+      "copyright": "Almeria Pesticides. All rights reserved.",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "cookiePolicy": "Cookie Policy"
+    }
+  },
+  "AboutPage": {
+    "hero": {
+      "badge": "Excellence Since 2010",
+      "title": "Pioneering Agricultural Innovation",
+      "subtitle": "Transforming farming through cutting-edge technology and sustainable solutions that empower farmers across the UAE and beyond.",
+      "feature": {
+        "title": "Innovation Leader",
+        "subtitle": "Pioneering sustainable agricultural solutions"
+      }
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "To revolutionize agriculture by providing innovative, sustainable, and effective solutions that enhance crop productivity while preserving environmental integrity for future generations.",
+      "badge": "Innovation Driven"
+    },
+    "vision": {
+      "title": "Our Vision",
+      "content": "To be the leading force in sustainable agricultural transformation, creating a world where technology and nature work in perfect harmony to feed the planet.",
+      "badge": "Future Focused"
+    },
+    "values": {
+      "title": "Our Core Values",
+      "subtitle": "The principles that guide our commitment to agricultural excellence",
+      "quality": {
+        "title": "Quality Assurance",
+        "description": "We maintain the highest standards in all our products and services, ensuring consistent excellence in every solution we deliver."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Continuously advancing agricultural technology and solutions to meet the evolving needs of modern farming."
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "description": "Committed to environmentally responsible practices that protect our planet while maximizing agricultural productivity."
+      },
+      "partnership": {
+        "title": "Partnership",
+        "description": "Building lasting relationships with farmers and communities, working together towards shared agricultural success."
+      }
+    },
+    "story": {
+      "title": "Our Story",
+      "content": "Founded with a vision to transform agriculture in the UAE, Almeria Pesticides has grown from a small local supplier to a leading agricultural solutions provider. Our journey is built on trust, innovation, and an unwavering commitment to farmer success.",
+      "badge": "Trusted Partner"
+    },
+    "impact": {
+      "title": "Our Impact",
+      "subtitle": "Making a difference in agriculture every day",
+      "farms": {
+        "number": "1000+",
+        "label": "Farms Served"
+      },
+      "products": {
+        "number": "500+",
+        "label": "Premium Products"
+      },
+      "experience": {
+        "number": "15+",
+        "label": "Years Experience"
+      },
+      "satisfaction": {
+        "number": "98%",
+        "label": "Customer Satisfaction"
+      }
+    },
+    "team": {
+      "title": "Expert Team",
+      "subtitle": "Agricultural specialists dedicated to your success",
+      "description": "Our team combines decades of agricultural expertise with cutting-edge technology knowledge to deliver solutions that work in real-world farming conditions."
+    },
+    "cta": {
+      "title": "Ready to Transform Your Farm?",
+      "subtitle": "Join thousands of successful farmers who trust Almeria for their agricultural needs",
+      "button": "Start Your Journey",
+      "socialProof": "4.9/5 from 1000+ reviews"
+    }
+  },
+  "ContactPage": {
+    "title": "Contact Us",
+    "description": "If you have any inquiries or need more information, feel free to reach out to us.",
+    "address": "Address",
+    "addressDetails": "UAE - Al Ain - Industrial Area - Office 3",
+    "phone": "Phone",
+    "phoneNumber": "+971503000673",
+    "email": "Email",
+    "emailAddress": "info@almeria-pesticides.com",
+    "businessHours": "Business Hours",
+    "whyContactUs": "Why Contact Us?",
+    "findUs": "Find Us",
+    "ourLocation": "Our Location",
+    "locationDescription": "Located in the heart of Al Ain's Industrial Area for easy access",
+    "benefits": {
+      "consultation": "Free agricultural consultation",
+      "advice": "Expert advice on pest control",
+      "solutions": "Custom solutions for your farm",
+      "response": "Quick response within 24 hours"
+    },
+    "schedule": {
+      "sundayThursday": "Sunday - Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "morningHours": "8:00 AM - 6:00 PM",
+      "fridayHours": "8:00 AM - 12:00 PM",
+      "closed": "Closed"
+    },
+    "cta": {
+      "title": "Ready to Transform Your Agricultural Success?",
+      "subtitle": "Contact our expert team today for personalized agricultural solutions",
+      "callNow": "Call Now",
+      "emailUs": "Email Us"
+    },
+    "form": {
+      "title": "Send us a message",
+      "description": "We would love to hear from you! Please fill out the form below to get in touch with us.",
+      "name": "Name",
+      "namePlaceholder": "Enter your name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "message": "Message",
+      "messagePlaceholder": "Enter your message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Your message has been sent successfully!",
+      "error": "There was an error sending your message. Please try again later.",
+      "validation": {
+        "nameRequired": "Name is required",
+        "nameMinLength": "Name must be at least 2 characters",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Please enter a valid email address",
+        "messageRequired": "Message is required",
+        "messageMinLength": "Message must be at least 10 characters"
+      },
+      "api": {
+        "allFieldsRequired": "All fields are required",
+        "invalidEmail": "Please enter a valid email address",
+        "successMessage": "Message sent successfully!",
+        "errorMessage": "Failed to send message. Please try again later."
+      }
+    }
+  },
+  "PrivacyPolicyPage": {
+    "title": "Privacy Policy",
+    "description": "Learn how Almeria Pesticides collects, uses, and protects your personal information.",
+    "lastUpdated": "Last Updated",
+    "introduction": {
+      "title": "Introduction",
+      "content": "At Almeria Pesticides, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services."
+    },
+    "informationCollection": {
+      "title": "Information We Collect",
+      "content": "We may collect information about you in a variety of ways. The information we may collect includes:",
+      "personalInfo": "Personal Data: Name, email address, phone number, and other contact information you provide when contacting us or requesting our services.",
+      "businessInfo": "Business Information: Company name, agricultural needs, farm size, and crop types when you request consultations or product information.",
+      "usageData": "Usage Data: Information about how you access and use our website, including your IP address, browser type, and pages visited."
+    },
+    "informationUse": {
+      "title": "How We Use Your Information",
+      "content": "We use the information we collect to:",
+      "purposes": [
+        "Provide and maintain our agricultural services and products",
+        "Process your requests for consultations and product information",
+        "Communicate with you about our services, including responding to inquiries",
+        "Improve our website and services based on your feedback",
+        "Send you updates about new products and agricultural solutions",
+        "Comply with legal obligations and regulatory requirements"
+      ]
+    },
+    "informationSharing": {
+      "title": "Information Sharing",
+      "content": "We do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except as described in this policy:",
+      "exceptions": [
+        "Service providers who assist us in operating our website and conducting our business",
+        "Legal requirements when we believe disclosure is necessary to comply with applicable laws",
+        "Business transfers in connection with any merger, sale, or acquisition of our company"
+      ]
+    },
+    "dataSecurity": {
+      "title": "Data Security",
+      "content": "We implement appropriate technical and organizational security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet is 100% secure."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about this Privacy Policy, please contact us at:"
+    }
+  },
+  "TermsOfServicePage": {
+    "title": "Terms of Service",
+    "description": "Terms and conditions for using Almeria Pesticides' services and products.",
+    "lastUpdated": "Last Updated",
+    "introduction": {
+      "title": "Introduction",
+      "content": "These Terms of Service (\"Terms\") govern your use of Almeria Pesticides' services and products. By accessing our website or using our services, you agree to be bound by these Terms."
+    },
+    "services": {
+      "title": "Our Services",
+      "content": "Almeria Pesticides provides:",
+      "servicesList": [
+        "Agricultural pesticides and pest control solutions",
+        "Public health pesticides for residential and commercial use",
+        "High-quality fertilizers and soil enhancement products",
+        "Premium seeds and planting materials",
+        "Irrigation systems and agricultural equipment",
+        "Professional agricultural consulting services"
+      ]
+    },
+    "productUse": {
+      "title": "Product Use and Safety",
+      "content": "All users of our products must:",
+      "requirements": [
+        "Follow all product labels and safety instructions",
+        "Use products only for their intended purposes",
+        "Comply with all applicable laws and regulations",
+        "Store products safely and away from children and pets",
+        "Dispose of products and containers according to local regulations",
+        "Seek professional advice when uncertain about product application"
+      ]
+    },
+    "liability": {
+      "title": "Limitation of Liability",
+      "content": "While we strive to provide high-quality products and services, Almeria Pesticides' liability is limited to the extent permitted by law. We are not responsible for damages resulting from misuse of products or failure to follow safety instructions."
+    },
+    "warranty": {
+      "title": "Product Warranty",
+      "content": "We stand behind the quality of our products. If you experience any issues with our products when used according to instructions, please contact us immediately. We will work to resolve any legitimate concerns."
+    },
+    "termination": {
+      "title": "Termination",
+      "content": "We reserve the right to terminate or suspend access to our services at any time, without prior notice, for conduct that we believe violates these Terms or is harmful to other users or our business."
+    },
+    "changes": {
+      "title": "Changes to Terms",
+      "content": "We may update these Terms from time to time. We will notify you of any significant changes by posting the new Terms on our website. Your continued use of our services after such changes constitutes acceptance of the new Terms."
+    },
+    "contact": {
+      "title": "Contact Information",
+      "content": "For questions about these Terms of Service, please contact us at:"
+    }
+  },
+  "CookiePolicyPage": {
+    "title": "Cookie Policy",
+    "description": "Information about how Almeria Pesticides uses cookies and similar technologies on our website.",
+    "lastUpdated": "Last Updated",
+    "introduction": {
+      "title": "What Are Cookies",
+      "content": "Cookies are small text files that are placed on your computer or mobile device when you visit a website. They are widely used to make websites work more efficiently and provide information to website owners."
+    },
+    "howWeUse": {
+      "title": "How We Use Cookies",
+      "content": "We use cookies to:",
+      "purposes": [
+        "Remember your language preference and settings",
+        "Analyze website traffic and user behavior",
+        "Improve website functionality and user experience",
+        "Provide personalized content and recommendations",
+        "Ensure website security and prevent fraud"
+      ]
+    },
+    "typesOfCookies": {
+      "title": "Types of Cookies We Use",
+      "essential": {
+        "title": "Essential Cookies",
+        "description": "These cookies are necessary for the website to function properly. They enable core functionality such as page navigation and access to secure areas."
+      },
+      "functional": {
+        "title": "Functional Cookies",
+        "description": "These cookies remember your preferences and choices to provide a more personalized experience, such as language selection."
+      },
+      "analytics": {
+        "title": "Analytics Cookies",
+        "description": "These cookies help us understand how visitors interact with our website by collecting and reporting information anonymously."
+      },
+      "marketing": {
+        "title": "Marketing Cookies",
+        "description": "These cookies are used to deliver relevant advertisements and track the effectiveness of our marketing campaigns."
+      }
+    },
+    "cookieControl": {
+      "title": "Managing Your Cookie Preferences",
+      "content": "You can control and manage cookies in various ways:",
+      "options": [
+        "Browser Settings: Most browsers allow you to control cookies through their settings",
+        "Opt-out: You can opt-out of certain cookies through industry opt-out mechanisms",
+        "Contact Us: Contact us if you need help managing your cookie preferences"
+      ]
+    },
+    "thirdParty": {
+      "title": "Third-Party Cookies",
+      "content": "Our website may contain links to other websites and services. These third-party sites have their own privacy policies and cookie practices, which we do not control."
+    },
+    "updates": {
+      "title": "Updates to This Policy",
+      "content": "We may update this Cookie Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about our use of cookies, please contact us at:"
+    }
+  }
+}
