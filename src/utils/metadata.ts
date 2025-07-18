@@ -19,11 +19,10 @@ export async function buildMetadata(
     | "cookie-policy",
 ): Promise<Metadata> {
   const t = await getTranslations({ locale, namespace });
-
+  // const url = "https://almeria-pesticides.com";
+  const url = "https://almeria-pesticides.vercel.app/";
   const ogImage =
-    locale === "ar"
-      ? "https://almeria-pesticides.com/og-image.ar.jpg"
-      : "https://almeria-pesticides.com/og-image.en.jpg";
+    locale === "ar" ? `${url}og-image.ar.png` : `${url}og-image.en.png`;
 
   return {
     title: t("title"),
@@ -33,16 +32,16 @@ export async function buildMetadata(
     creator: "Almeria Pesticides",
     themeColor: "#0D542B",
     alternates: {
-      canonical: `https://almeria-pesticides.com/${path}`,
+      canonical: `${url}${path}`,
       languages: {
-        en: `/en/${path}`,
-        ar: `/ar/${path}`,
+        en: `en/${path}`,
+        ar: `ar/${path}`,
       },
     },
     openGraph: {
       title: t("title"),
       description: t("description"),
-      url: `https://almeria-pesticides.com/${path}`,
+      url: `${url}${path}`,
       siteName: "Almeria Pesticides",
       locale: locale === "ar" ? "ar_AE" : "en_US",
       type: "website",

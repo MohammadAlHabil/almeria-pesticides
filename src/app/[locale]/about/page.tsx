@@ -383,7 +383,7 @@ export default function About({ params }: ParamsProps) {
             </div>
 
             <div className="relative">
-              <div className="aspect-square overflow-hidden shadow-2xl transform rotate-3 hover:rotate-0 transition-transform duration-500">
+              <div className="aspect-square rounded-3xl overflow-hidden shadow-2xl transform rotate-3 hover:rotate-0 transition-transform duration-500">
                 <Image
                   src="https://images.unsplash.com/photo-1664006264603-675b581ce108?q=80&w=2691&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Modern agriculture technology"
