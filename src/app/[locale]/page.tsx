@@ -545,17 +545,14 @@ export default function Home({ params }: ParamsProps) {
                     emoji: "🚚",
                   },
                 ].map(
-                  (
-                    {
-                      key,
-                      icon: IconComponent,
-                      gradient,
-                      bgGradient,
-                      borderColor,
-                      emoji,
-                    },
-                    index,
-                  ) => (
+                  ({
+                    key,
+                    icon: IconComponent,
+                    gradient,
+                    bgGradient,
+                    borderColor,
+                    emoji,
+                  }) => (
                     <div
                       key={key}
                       className={`group relative bg-gradient-to-br ${bgGradient} backdrop-blur-sm rounded-3xl p-8 transition-all duration-500 transform hover:scale-105 hover:-translate-y-4 border ${borderColor}`}

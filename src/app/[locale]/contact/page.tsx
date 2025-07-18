@@ -10,7 +10,6 @@ import {
   Clock,
   MessageCircle,
   CheckCircle,
-  Send,
   Headphones,
   Shield,
   Zap,
